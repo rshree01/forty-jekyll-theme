@@ -1,4 +1,6 @@
 # site settings
+baseurl: ""
+url: "https://rshree01.github.io"
 title: "Rajashree's Portfolio" 
 subtitle: "Data Engineer "  
 author: "Rajashree"              
