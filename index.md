@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Glad you are here! Welcome to my Portfolio!!
+landing-title: 'Hi, my name is Rajashree Shanmuganathan'
 description: null
-image: null
-author: null
+image: "/assets/images/profile.jpeg"
+author: Rajashree Shanmuganathan
 show_tile: false
 ---
 
